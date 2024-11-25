@@ -1,3 +1,4 @@
+// Головний файл програми замість app.js
 const { program } = require("commander");
 const express = require('express');
 const path = require('path');
